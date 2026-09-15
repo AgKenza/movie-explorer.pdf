@@ -51,10 +51,12 @@ header h1 {
    MOVIE CARD
 ========================= */
 
-.movie-card p {
-    font-size: 0.95rem;
-    margin-bottom: 6px;
-    color: #6B7280;
+.movie-card  {
+    background: white;
+    padding: 25px;
+    border: 1px solid #e5e7eb; /* Une bordure gris très clair */
+    border-radius: 12px;       /* Des coins bien arrondis */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Une petite ombre douce */
 
 }
 
@@ -67,6 +69,7 @@ header h1 {
 .movie-card p {
     font-size: 0.95rem;
     margin-bottom: 6px;
+    color: #6B7280;
 }
 
 
