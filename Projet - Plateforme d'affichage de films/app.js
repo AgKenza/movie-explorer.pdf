@@ -57,3 +57,20 @@ function displayStats(moviesToDisplay) {
 }
 
 loadMovies();
+
+// Écouter ce qui est tapé dans la barre de recherche
+const searchInput = document.querySelector("#search-input");
+
+if (searchInput) {
+  searchInput.addEventListener("input", (e) => {
+    const searchTerm = e.target.value.toLowerCase().trim();
+
+    // Filtrer le tableau des films selon le titre
+    const filteredMovies = movies.filter(movie => 
+      movie.title.toLowerCase().includes(searchTerm)
+    );
+
+    // Réafficher uniquement les films correspondants
+    displayMovies(filteredMovies);
+  });
+}
