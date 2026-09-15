@@ -113,3 +113,14 @@ footer {
         padding: 25px 15px;
     }
 }
+.movie-rating {
+    display: inline-flex;        /* Aligne l'étoile et le texte */
+    align-items: center;
+    background-color: #FEF3C7;   /* Fond jaune très clair */
+    color: #D97706;              /* Texte orange/doré */
+    padding: 4px 10px;           /* Espace à l'intérieur */
+    border-radius: 20px;         /* Bords arrondis */
+    font-weight: bold;           /* Texte en gras */
+    font-size: 0.9rem;
+    margin-bottom: 10px;         /* Un petit espace en bas pour séparer du titre */
+}
