@@ -117,7 +117,7 @@ footer {
     padding: 30px 40px;
 }
     }
-}
+
 .movie-rating {
     display: inline-flex;        /* Aligne l'étoile et le texte */
     align-items: center;
