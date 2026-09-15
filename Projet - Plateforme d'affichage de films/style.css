@@ -19,7 +19,11 @@ body {
    HEADER
 ========================= */
 
-
+header h1 {
+    text-align: center;
+    margin-top: 64px;
+    font-size: 3.5rem;
+}
 
 /* =========================
    MOVIES SECTION
