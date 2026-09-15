@@ -219,4 +219,11 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
+.movie-description {
+    font-size: 0.9rem;
+    color: #4b5563;
+    margin-top: 10px;
+    line-height: 1.4;
+}
 /* Fin du fichier CSS - Design validé */

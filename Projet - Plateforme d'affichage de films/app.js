@@ -27,6 +27,11 @@ function displayMovies(moviesToDisplay) {
         <p class="movie-director">
           ${movie.director}
         </p>
+
+        <p class="movie-description">
+          ${movie.description}
+        </p>
+        
       </article>
     `)
     .join("");

@@ -5,7 +5,8 @@
     "year": 2010,
     "genre": "Science-Fiction",
     "rating": 8.8,
-    "director": "Christopher Nolan"
+    "director": "Christopher Nolan",
+    "description": "Un voleur expérimenté qui dérobe des secrets à travers le subconscient se voit offrir une chance d'effacer son casier."
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "year": 2019,
     "genre": "Drame",
     "rating": 8.5,
-    "director": "Bong Joon-ho"
+    "director": "Bong Joon-ho",
+    "description": "Toute la famille de Ki-tek s'intéresse de près au train de vie d'une riche famille, jusqu'à s'immiscer dans leur quotidien."
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "year": 2008,
     "genre": "Action",
     "rating": 9.0,
-    "director": "Christopher Nolan"
+    "director": "Christopher Nolan",
+    "description": "Batman affronte le Joker, un esprit criminel erratique qui cherche à plonger Gotham City dans le chaos total."
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "year": 1994,
     "genre": "Crime",
     "rating": 8.9,
-    "director": "Quentin Tarantino"
+    "director": "Quentin Tarantino",
+    "description": "Les vies de deux hommes de main, d'un boxeuse et de gangsters s'entremêlent à travers plusieurs histoires de violence et de rédemption."
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "year": 2014,
     "genre": "Comédie",
     "rating": 8.1,
-    "director": "Wes Anderson"
+    "director": "Wes Anderson",
+    "description": "Les aventures d'un concierge légendaire dans un hôtel européen renommé et de son fidèle jeune employé."
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "year": 2001,
     "genre": "Animation",
     "rating": 8.6,
-    "director": "Hayao Miyazaki"
+    "director": "Hayao Miyazaki",
+    "description": "Une jeune fille se retrouve piégée dans un monde mystérieux peuplé de dieux et de créatures étranges après la transformation de ses parents."
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "year": 2014,
     "genre": "Science-Fiction",
     "rating": 8.7,
-    "director": "Christopher Nolan"
+    "director": "Christopher Nolan",
+    "description": "Un groupe d'astronautes voyage à travers un trou de ver à la recherche d'une nouvelle planète habitable pour sauver l'humanité."
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "year": 1972,
     "genre": "Crime",
     "rating": 9.2,
-    "director": "Francis Ford Coppola"
+    "director": "Francis Ford Coppola",
+    "description": "L'chronique de la puissante famille mafieuse Corleone et de la succession de son patriarche vieillissant."
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "year": 2001,
     "genre": "Comédie",
     "rating": 8.3,
-    "director": "Jean-Pierre Jeunet"
+    "director": "Jean-Pierre Jeunet",
+    "description": "Une jeune serveuse parisienne décide de changer discrètement la vie des gens qui l'entourent pour le meilleur."
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "year": 2014,
     "genre": "Drame",
     "rating": 8.5,
-    "director": "Damien Chazelle"
+    "director": "Damien Chazelle",
+    "description": "Un jeune batteur de jazz talentueux intègre le conservatoire le plus exigeant sous la coupe d'un professeur impitoyable."
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "year": 2017,
     "genre": "Horreur",
     "rating": 7.8,
-    "director": "Jordan Peele"
+    "director": "Jordan Peele",
+    "description": "Un jeune homme afro-américain rend visite aux parents de sa petite amie blanche, mais découvre un secret terrifiant."
   },
   {
     "id": 12,
@@ -93,46 +104,52 @@
     "year": 1995,
     "genre": "Animation",
     "rating": 8.3,
-    "director": "John Lasseter"
+    "director": "John Lasseter",
+    "description": "Les jouets prennent vie lorsque les humains ont le dos tourné, jaloux de l'arrivée d'un nouveau jouet high-tech."
   },
   {
-"id": 13,
-"title": "Interstellar",
-"year": 2014,
-"genre": "Science-Fiction",
-"rating": 8.7,
-"director": "Christopher Nolan"
-},
-{
-"id": 14,
-"title": "The Godfather",
-"year": 1972,
-"genre": "Crime",
-"rating": 9.2,
-"director": "Francis Ford Coppola"
-},
-{
-"id": 15,
-"title": "Spirited Away",
-"year": 2001,
-"genre": "Animation",
-"rating": 8.6,
-"director": "Hayao Miyazaki"
-},
-{
-"id": 16,
-"title": "Whiplash",
-"year": 2014,
-"genre": "Drame",
-"rating": 8.5,
-"director": "Damien Chazelle"
-},
-{
-"id": 17,
-"title": "The Grand Budapest Hotel",
-"year": 2014,
-"genre": "Comédie",
-"rating": 8.1,
-"director": "Wes Anderson"
-}
+    "id": 13,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Science-Fiction",
+    "rating": 8.7,
+    "director": "Christopher Nolan",
+    "description": "Une mission spatiale de la dernière chance pour trouver un nouveau foyer à l'humanité menacée de famine."
+  },
+  {
+    "id": 14,
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": "Crime",
+    "rating": 9.2,
+    "director": "Francis Ford Coppola",
+    "description": "Le clan Corleone fait face aux turbulences du crime organisé dans l'Amérique d'après-guerre."
+  },
+  {
+    "id": 15,
+    "title": "Spirited Away",
+    "year": 2001,
+    "genre": "Animation",
+    "rating": 8.6,
+    "director": "Hayao Miyazaki",
+    "description": "Un voyage fantastique et initiatique au cœur d'un établissement thermal magique pour esprits."
+  },
+  {
+    "id": 16,
+    "title": "Whiplash",
+    "year": 2014,
+    "genre": "Drame",
+    "rating": 8.5,
+    "director": "Damien Chazelle",
+    "description": "La quête obsessionnelle de la perfection musicale au prix d'un sacrifice psychologique intense."
+  },
+  {
+    "id": 17,
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "genre": "Comédie",
+    "rating": 8.1,
+    "director": "Wes Anderson",
+    "description": "Une enquête rocambolesque autour d'un tableau de Renaissance volé et d'un héritage contesté."
+  }
 ]
