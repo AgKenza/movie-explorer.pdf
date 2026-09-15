@@ -1,22 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
 <head>
-  <link rel="stylesheet" href="style.css"></style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sensa - Movie Explorer</title>
+  <link rel="stylesheet" href="style.css">
 </head>
+<body>
 
-    <section class="movies-section">
+  <!-- Header remonté proprement tout en haut -->
+  <header class="main-header">
+    <div class="logo">🎬 Sensa</div>
+    <nav class="nav-menu">
+      <a href="#accueil">Accueil</a>
+      <a href="#movies">Films</a>
+      <a href="#apropos">À propos</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="accueil" class="movies-section">
       <div class="section-header">
         <h2>Sensa</h2>
         <p>Sensa - Explorez, découvrez, regardez</p>
+        
+        <!-- 👇 AJOUT DE LA BARRE DE RECHERCHE ICI -->
+        <div class="search-container" style="margin-top: 20px;">
+          <input type="text" id="search-input" placeholder="🔍 Rechercher un film..." style="padding: 10px 15px; width: 100%; max-width: 400px; border-radius: 8px; border: 1px solid #ccc; font-size: 1rem;">
+          <span id="movie-result" style="margin-left: 10px; font-weight: bold;"></span>
+        </div>
       </div>
 
       <div id="movies" class="movies-grid"></div>
     </section>
+
+    <section id="apropos" class="about-section">
+      <h2>À propos du projet</h2>
+      <p class="about-intro">
+        <strong>Sensa</strong> est une plateforme moderne conçue pour explorer, découvrir et consulter facilement un catalogue de films soigneusement sélectionnés.
+      </p>
+      
+      <div class="about-grid">
+        <div class="about-card">
+          <h3>🎯 Objectif</h3>
+          <p>Offrir une interface fluide, intuitive et responsive pour naviguer à travers des informations cinématographiques de qualité.</p>
+        </div>
+        
+        <div class="about-card">
+          <h3>🛠️ Technologies utilisées</h3>
+          <ul>
+            <li>HTML5 / CSS3 (Grid, Flexbox)</li>
+            <li>JavaScript (Async/Await, Fetch API)</li>
+            <li>Git & GitHub (Version control & Pull Requests)</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
 
   <footer>
     <p>© 2026 - Sensa - Développé par Kenza</p>
   </footer>
 
   <script src="app.js"></script>
-  
-
 </body>
 </html>
