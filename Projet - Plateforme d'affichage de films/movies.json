@@ -6,7 +6,8 @@
     "genre": "Science-Fiction",
     "rating": 8.8,
     "director": "Christopher Nolan",
-    "description": "Un voleur expérimenté qui dérobe des secrets à travers le subconscient se voit offrir une chance d'effacer son casier."
+    "description": "Un voleur expérimenté qui dérobe des secrets à travers le subconscient se voit offrir une chance d'effacer son casier.",
+    "poster": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "genre": "Drame",
     "rating": 8.5,
     "director": "Bong Joon-ho",
-    "description": "Toute la famille de Ki-tek s'intéresse de près au train de vie d'une riche famille, jusqu'à s'immiscer dans leur quotidien."
+    "description": "Toute la famille de Ki-tek s'intéresse de près au train de vie d'une riche famille, jusqu'à s'immiscer dans leur quotidien.",
+    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "genre": "Action",
     "rating": 9.0,
     "director": "Christopher Nolan",
-    "description": "Batman affronte le Joker, un esprit criminel erratique qui cherche à plonger Gotham City dans le chaos total."
+    "description": "Batman affronte le Joker, un esprit criminel erratique qui cherche à plonger Gotham City dans le chaos total.",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "genre": "Crime",
     "rating": 8.9,
     "director": "Quentin Tarantino",
-    "description": "Les vies de deux hommes de main, d'un boxeuse et de gangsters s'entremêlent à travers plusieurs histoires de violence et de rédemption."
+    "description": "Les vies de deux hommes de main, d'un boxeur et de gangsters s'entremêlent à travers plusieurs histoires de violence et de rédemption.",
+    "poster": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg"
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "genre": "Comédie",
     "rating": 8.1,
     "director": "Wes Anderson",
-    "description": "Les aventures d'un concierge légendaire dans un hôtel européen renommé et de son fidèle jeune employé."
+    "description": "Les aventures d'un concierge légendaire dans un hôtel européen renommé et de son fidèle jeune employé.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
   },
   {
     "id": 6,
@@ -51,61 +56,68 @@
     "genre": "Animation",
     "rating": 8.6,
     "director": "Hayao Miyazaki",
-    "description": "Une jeune fille se retrouve piégée dans un monde mystérieux peuplé de dieux et de créatures étranges après la transformation de ses parents."
+    "description": "Une jeune fille se retrouve piégée dans un monde mystérieux peuplé de dieux et de créatures étranges après la transformation de ses parents.",
+    "poster": "images/image.png"
   },
   {
     "id": 7,
-    "title": "Interstellar",
-    "year": 2014,
-    "genre": "Science-Fiction",
-    "rating": 8.7,
-    "director": "Christopher Nolan",
-    "description": "Un groupe d'astronautes voyage à travers un trou de ver à la recherche d'une nouvelle planète habitable pour sauver l'humanité."
+    "title": "Le Seigneur des Anneaux : La Communauté de l'Anneau",
+    "year": 2001,
+    "genre": "Fantasy",
+    "rating": 8.8,
+    "director": "Peter Jackson",
+    "description": "Un jeune hobbit, Frodon Sacquet, hérite d'un anneau magique doté d'un pouvoir maléfique et doit entreprendre une périlleuse quête.",
+    "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
   },
   {
     "id": 8,
-    "title": "The Godfather",
-    "year": 1972,
-    "genre": "Crime",
-    "rating": 9.2,
-    "director": "Francis Ford Coppola",
-    "description": "L'chronique de la puissante famille mafieuse Corleone et de la succession de son patriarche vieillissant."
+    "title": "Fight Club",
+    "year": 1999,
+    "genre": "Drame",
+    "rating": 8.8,
+    "director": "David Fincher",
+    "description": "Un employé de bureau insatisfait et un fabricant de savon charismatique fondent un club de combat clandestin.",
+    "poster": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg"
   },
   {
     "id": 9,
-    "title": "Amélie",
-    "year": 2001,
-    "genre": "Comédie",
-    "rating": 8.3,
-    "director": "Jean-Pierre Jeunet",
-    "description": "Une jeune serveuse parisienne décide de changer discrètement la vie des gens qui l'entourent pour le meilleur."
+    "title": "Matrix",
+    "year": 1999,
+    "genre": "Science-Fiction",
+    "rating": 8.7,
+    "director": "Lana & Lilly Wachowski",
+    "description": "Un hacker découvre que la réalité perçue n'est qu'une simulation virtuelle créée par des machines pour asservir l'humanité.",
+    "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
   },
   {
     "id": 10,
-    "title": "Whiplash",
-    "year": 2014,
-    "genre": "Drame",
-    "rating": 8.5,
-    "director": "Damien Chazelle",
-    "description": "Un jeune batteur de jazz talentueux intègre le conservatoire le plus exigeant sous la coupe d'un professeur impitoyable."
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Comédie dramatique",
+    "rating": 8.8,
+    "director": "Robert Zemeckis",
+    "description": "L'histoire extraordinaire d'un homme simple d'esprit mais au grand cœur qui traverse les décennies et les événements historiques américains.",
+    "poster": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg"
   },
   {
     "id": 11,
-    "title": "Get Out",
-    "year": 2017,
-    "genre": "Horreur",
-    "rating": 7.8,
-    "director": "Jordan Peele",
-    "description": "Un jeune homme afro-américain rend visite aux parents de sa petite amie blanche, mais découvre un secret terrifiant."
+    "title": "Seven",
+    "year": 1995,
+    "genre": "Thriller",
+    "rating": 8.6,
+    "director": "David Fincher",
+    "description": "Deux détectives traquent un serial killer méthodique qui base ses meurtres sur les sept péchés capitaux.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
   },
   {
     "id": 12,
-    "title": "Toy Story",
-    "year": 1995,
-    "genre": "Animation",
-    "rating": 8.3,
-    "director": "John Lasseter",
-    "description": "Les jouets prennent vie lorsque les humains ont le dos tourné, jaloux de l'arrivée d'un nouveau jouet high-tech."
+    "title": "Gladiator",
+    "year": 2000,
+    "genre": "Action",
+    "rating": 8.5,
+    "director": "Ridley Scott",
+    "description": "Un général romain trahi cherche sa revanche contre l'empereur corrompu qui a assassiné sa famille.",
+    "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@
     "genre": "Science-Fiction",
     "rating": 8.7,
     "director": "Christopher Nolan",
-    "description": "Une mission spatiale de la dernière chance pour trouver un nouveau foyer à l'humanité menacée de famine."
+    "description": "Une mission spatiale de la dernière chance pour trouver un nouveau foyer à l'humanité menacée de famine.",
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
   },
   {
     "id": 14,
@@ -123,16 +136,18 @@
     "genre": "Crime",
     "rating": 9.2,
     "director": "Francis Ford Coppola",
-    "description": "Le clan Corleone fait face aux turbulences du crime organisé dans l'Amérique d'après-guerre."
+    "description": "Le clan Corleone fait face aux turbulences du crime organisé dans l'Amérique d'après-guerre.",
+    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
   },
   {
     "id": 15,
-    "title": "Spirited Away",
-    "year": 2001,
-    "genre": "Animation",
+    "title": "Le Silence des Agneaux",
+    "year": 1991,
+    "genre": "Thriller",
     "rating": 8.6,
-    "director": "Hayao Miyazaki",
-    "description": "Un voyage fantastique et initiatique au cœur d'un établissement thermal magique pour esprits."
+    "director": "Jonathan Demme",
+    "description": "Une jeune recrue du FBI doit faire appel à un brillant psychiatre et criminel emprisonné pour traquer un autre tueur en série.",
+    "poster": "https://image.tmdb.org/t/p/w500/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg"
   },
   {
     "id": 16,
@@ -141,15 +156,17 @@
     "genre": "Drame",
     "rating": 8.5,
     "director": "Damien Chazelle",
-    "description": "La quête obsessionnelle de la perfection musicale au prix d'un sacrifice psychologique intense."
+    "description": "La quête obsessionnelle de la perfection musicale au prix d'un sacrifice psychologique intense.",
+    "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
   },
   {
     "id": 17,
-    "title": "The Grand Budapest Hotel",
-    "year": 2014,
-    "genre": "Comédie",
-    "rating": 8.1,
-    "director": "Wes Anderson",
-    "description": "Une enquête rocambolesque autour d'un tableau de Renaissance volé et d'un héritage contesté."
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": "Aventure",
+    "rating": 8.2,
+    "director": "Steven Spielberg",
+    "description": "Des scientifiques visitent un parc d'attractions peuplé de dinosaures clonés, mais la situation dégénère rapidement.",
+    "poster": "https://image.tmdb.org/t/p/w500/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg"
   }
 ]

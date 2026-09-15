@@ -14,6 +14,11 @@ function displayMovies(moviesToDisplay) {
   container.innerHTML = moviesToDisplay
     .map(movie => `
       <article class="movie-card">
+        <!-- Affichage de l'affiche du film -->
+        <div class="movie-poster">
+          <img src="${movie.poster}" alt="Affiche de ${movie.title}" onerror="this.src='https://via.placeholder.com/300x450?text=Affiche+Indisponible';">
+        </div>
+
         <div class="movie-rating">
           ⭐ ${movie.rating}
         </div>
@@ -31,12 +36,10 @@ function displayMovies(moviesToDisplay) {
         <p class="movie-description">
           ${movie.description}
         </p>
-        
       </article>
     `)
     .join("");
 
-    
   document.querySelector("#movie-result").textContent =
     `${moviesToDisplay.length} film${moviesToDisplay.length > 1 ? "s" : ""}`;
 }
